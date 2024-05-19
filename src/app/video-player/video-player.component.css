@@ -1,0 +1,41 @@
+.video-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .video-container input[type="file"] {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  
+  
+  .video-container p {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .video-js {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .controls {
+    margin-top: 10px;
+  }
+  
+  .controls button {
+    margin: 0 5px;
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .controls button:hover {
+    background-color: #0056b3;
+  }
+  
