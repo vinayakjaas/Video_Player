@@ -1,4 +1,4 @@
-# Angular Content Player
+# Video Player
 
 ## Overview
 
