@@ -56,6 +56,6 @@ This project is an Angular-based video player application designed to handle vid
 
 ## Demo Video
 
-![Demo Video](https://drive.google.com/file/d/1j6ZKez4sAhtZ7n-cWpByrEI5QfRDjyjB/view)
+![Demo Video](./src/assets/VideoPlayer.gif)
 
 
