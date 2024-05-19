@@ -55,8 +55,5 @@ This project is an Angular-based video player application designed to handle vid
     ```
 
 ## Demo Video
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](./src/assets/VideoPlayer.mp4)
 
-<video width="600" controls>
-  <source src="./src/assets/VideoPlayer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
