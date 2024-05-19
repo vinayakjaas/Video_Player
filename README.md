@@ -53,6 +53,13 @@ This project is an Angular-based video player application designed to handle vid
     ```
     http://localhost:4200
     ```
+5. **Docker Setup**
+   ```
+    docker build -t Video_Player .
+   ```
+   ```
+    docker run -d -p 80:80 Video_Player
+   ```
 
 ## Demo Video
 
