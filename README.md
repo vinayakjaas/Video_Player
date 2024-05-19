@@ -1,28 +1,58 @@
-# VideoPlayer
+# Angular Content Player
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
+## Overview
 
-## Development server
+This project is an Angular-based video player application designed to handle video of different format. The application consists of two main components:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. **Demo Videos Component**: This component contains a selection of pre-added demo videos in various formats (MP4, WebM, Ogg) stored in the `assets` directory.
 
-## Code scaffolding
+![Alt text](./src/assets/video1.jpg "Optional Title")
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. **User Upload Component**: This component allows users to upload and play videos in any supported format.
 
-## Build
+![Alt text](./src/assets/video2.jpg "Optional Title")
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Features
 
-## Running unit tests
+- Play pre-loaded demo videos in multiple formats.
+- We have options to Load,Play and Pause video
+- Upload and play user-selected videos.
+- Support for common video formats such as MP4, WebM, and Ogg and many more .
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tech Stack
 
-## Running end-to-end tests
+- Angular Framework
+- Typescript
+- Css(For basic Design)
+- Html
+- jasmine(for E2E & Unit Testing)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Installation
 
-## Further help
+1. **Clone the repository:**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# Video_Player" 
+    ```bash
+    git clone https://github.com/your-username/angular-content-player.git
+    cd angular-content-player
+    ```
+
+2. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Run the application:**
+
+    ```bash
+    ng serve
+    ```
+
+4. **Open your browser and navigate to:**
+
+    ```
+    http://localhost:4200
+    ```
+
+## Demo Video
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](./src/assets/VideoPlayer.webm)
