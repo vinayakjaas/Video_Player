@@ -32,8 +32,8 @@ This project is an Angular-based video player application designed to handle vid
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/angular-content-player.git
-    cd angular-content-player
+    git clone https://github.com/vinayakjaas/Video_Player.git
+    cd Video_Player
     ```
 
 2. **Install dependencies:**
